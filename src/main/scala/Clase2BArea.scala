@@ -6,7 +6,7 @@ object Clase2BArea {
 
   def Area(var1:Double): Double = {
 
-    val result = 3.14159 * Square(var1)
+    val result = Math.PI * Square(var1)
     println(result)
     result
   }

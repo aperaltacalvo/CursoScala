@@ -1,5 +1,3 @@
-import com.sun.tools.javac.code.Attribute.Array
-
 object Clase1B{
   def main(args: Array[String]): Unit = {
     Sumar(2,2)
